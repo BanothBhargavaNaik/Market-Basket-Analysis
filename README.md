@@ -1,3 +1,7 @@
+
+
+![Gemini_Generated_Image_f5fnk4f5fnk4f5fn](https://github.com/user-attachments/assets/be39c773-c84c-4df2-9666-199d02dfc3ad)
+
 # Market Basket Analysis with Association Rules
 
 ## Project Overview
