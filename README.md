@@ -73,7 +73,6 @@ The analysis successfully uncovered meaningful associations between products, pr
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
 
 ## How to Run the Project
